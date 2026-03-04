@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Unable to Download Invoice",
+    "status": "In- Progress",
+    "description": "Customer cannot download their January invoice from the billing section. The download button is not responding.",
+    "ticket_id": "#1003",
+    "priority": "MEDIUM PRIORITY",
+    "customer_name": "Michael Brown",
+    "date": "1/17/2024"
+  },
+  {
+    "title": "Payment Failed but Amount Deducted",
+    "status": "Open",
+    "description": "Customer reports that payment failed during checkout but the amount was deducted from their bank account.",
+    "ticket_id": "#1004",
+    "priority": "HIGH PRIORITY",
+    "customer_name": "Sarah Johnson",
+    "date": "1/18/2024"
+  },
+  {
+    "title": "Login OTP Not Received",
+    "status": "Resolved",
+    "description": "User did not receive OTP while trying to log into their account from a new device.",
+    "ticket_id": "#1005",
+    "priority": "MEDIUM PRIORITY",
+    "customer_name": "David Wilson",
+    "date": "1/19/2024"
+  },
+  {
+    "title": "Profile Update Not Saving",
+    "status": "In- Progress",
+    "description": "Customer cannot update their profile information. Changes are not being saved after submission.",
+    "ticket_id": "#1006",
+    "priority": "LOW PRIORITY",
+    "customer_name": "Emma Davis",
+    "date": "1/20/2024"
+  },
+  {
+    "title": "Error 500 on Dashboard",
+    "status": "Open",
+    "description": "Internal server error appears when accessing the user dashboard after login.",
+    "ticket_id": "#1007",
+    "priority": "HIGH PRIORITY",
+    "customer_name": "James Anderson",
+    "date": "1/21/2024"
+  },
+  {
+    "title": "Subscription Not Activated",
+    "status": "In- Progress",
+    "description": "Customer purchased a premium plan but subscription is still showing as inactive.",
+    "ticket_id": "#1008",
+    "priority": "HIGH PRIORITY",
+    "customer_name": "Olivia Martinez",
+    "date": "1/22/2024"
+  },
+  {
+    "title": "Unable to Reset Password",
+    "status": "Resolved",
+    "description": "Password reset link is expired immediately after clicking.",
+    "ticket_id": "#1009",
+    "priority": "MEDIUM PRIORITY",
+    "customer_name": "William Taylor",
+    "date": "1/23/2024"
+  },
+  {
+    "title": "Incorrect Invoice Amount",
+    "status": "Open",
+    "description": "Customer claims the invoice shows an incorrect tax calculation for December billing.",
+    "ticket_id": "#1010",
+    "priority": "HIGH PRIORITY",
+    "customer_name": "Sophia Moore",
+    "date": "1/24/2024"
+  },
+  {
+    "title": "App Crashes on Startup",
+    "status": "In- Progress",
+    "description": "Mobile application crashes immediately after launching on Android devices.",
+    "ticket_id": "#1011",
+    "priority": "CRITICAL PRIORITY",
+    "customer_name": "Benjamin Clark",
+    "date": "1/25/2024"
+  },
+  {
+    "title": "Email Notifications Not Sending",
+    "status": "Open",
+    "description": "System is not sending email notifications for new order confirmations.",
+    "ticket_id": "#1012",
+    "priority": "MEDIUM PRIORITY",
+    "customer_name": "Ava Rodriguez",
+    "date": "1/26/2024"
+  },
+  {
+    "title": "Account Locked After Multiple Attempts",
+    "status": "Resolved",
+    "description": "User account locked due to multiple failed login attempts and cannot unlock it.",
+    "ticket_id": "#1013",
+    "priority": "LOW PRIORITY",
+    "customer_name": "Daniel Lewis",
+    "date": "1/27/2024"
+  },
+  {
+    "title": "Download Report Timeout Error",
+    "status": "In- Progress",
+    "description": "System shows timeout error when trying to download large analytical reports.",
+    "ticket_id": "#1014",
+    "priority": "MEDIUM PRIORITY",
+    "customer_name": "Mia Walker",
+    "date": "1/28/2024"
+  }
+]
